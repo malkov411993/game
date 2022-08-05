@@ -1,3 +1,2 @@
-# game
-new my repozirory
-игра началась
+class game():
+  def more
