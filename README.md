@@ -1,0 +1,2 @@
+# game
+new my repozirory
